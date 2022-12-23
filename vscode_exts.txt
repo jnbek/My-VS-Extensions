@@ -17,6 +17,7 @@ dbaeumer.vscode-eslint
 donjayamanne.githistory
 eamodio.gitlens
 formulahendry.code-runner
+golang.go
 hbenl.test-adapter-converter
 hbenl.vscode-test-explorer
 jsDelivr.jsdelivr
