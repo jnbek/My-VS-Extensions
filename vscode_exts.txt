@@ -17,6 +17,7 @@ GitHub.github-vscode-theme
 golang.go
 hbenl.test-adapter-converter
 hbenl.vscode-test-explorer
+html-validate.vscode-html-validate
 jsDelivr.jsdelivr
 julialang.language-julia
 Kelvin.vscode-sshfs
