@@ -52,3 +52,6 @@ vivaxy.vscode-conventional-commits
 vscodevim.vim
 waderyan.gitblame
 Zignd.html-css-class-completion
+neikeq.godot-csharp-vscode
+geequlim.godot-tools
+alfish.godot-files
