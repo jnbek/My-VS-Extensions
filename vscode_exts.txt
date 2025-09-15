@@ -11,15 +11,12 @@ dbaeumer.vscode-eslint
 donjayamanne.githistory
 eamodio.gitlens
 ecmel.vscode-html-css
-FIUBA.photran-lsp-client-vscode
 formulahendry.code-runner
 GitHub.github-vscode-theme
-golang.go
 hbenl.test-adapter-converter
 hbenl.vscode-test-explorer
 html-validate.vscode-html-validate
 jsDelivr.jsdelivr
-julialang.language-julia
 Kelvin.vscode-sshfs
 kraih.javascript-tmpl-support
 kraih.mojolicious
@@ -56,3 +53,4 @@ Zignd.html-css-class-completion
 neikeq.godot-csharp-vscode
 geequlim.godot-tools
 alfish.godot-files
+ms-vscode.cpptools
